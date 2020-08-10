@@ -1,0 +1,3 @@
+[submodule "foo-corp/namespaces/test-ns/test-ns"]
+	path = foo-corp/namespaces/test-ns/test-ns
+	url = git@github.com:davis-haba/submodule1.git
